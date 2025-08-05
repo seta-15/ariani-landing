@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: smtp.forwardemail.net
-max_age: 604800
+mx: mx1.forwardemail.net
+mx: mx2.forwardemail.net
+max_age: 86400
